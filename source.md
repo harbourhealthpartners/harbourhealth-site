@@ -94,7 +94,7 @@ Heading: "Contact Us"
 Heading: "Additional Services"
 
 **PAP Clinics**
-One of our nurses is trained to perform routine pap smears. This service increases the options available to women in our practice to have this important regular screening exam done, either with a nurse or their regular family physician. Women can book this exam by calling our office and indicating who they would prefer to see. Current recommendations are to have this exam done every 3 years from age 21 to 70 (after an initial series of 3 yearly exams starting at age 21).
+Both of our nurses are trained to perform routine pap smears. This service increases the options available to women in our practice to have this important regular screening exam done, either with a nurse or their regular family physician. Women can book this exam by calling our office and indicating who they would prefer to see. Current recommendations are to have this exam done every 3 years from age 21 to 70 (after an initial series of 3 yearly exams starting at age 21).
 
 Please note: nursing pap smear visits should be for routine screening only. If women are experiencing gynecologic symptoms or concerns they should book an appointment with their regular family physician.
 
