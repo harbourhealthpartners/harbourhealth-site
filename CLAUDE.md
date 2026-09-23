@@ -16,6 +16,12 @@ See `domain-dns-notes.md`.
 The site is built. `source.md` is the content spec it was built from; keep it in
 step if you change wording on a page.
 
+Each page's footer has a "Page last revised" date. Update it on any page you change.
+
+Clinical content (Staying Healthy, cervical screening) follows New Brunswick programs
+first, then Canadian Task Force recommendations, with a conservative approach. Cite
+sources on the page. Physician sign-off is required before changing it.
+
 Layout: one HTML file per page at the repo root, shared styles in `css/style.css`
 (colour variables at the top), menu behaviour only in `js/main.js`, images in
 `images/`. Each page carries its own copy of the header and footer, so a change
@@ -37,7 +43,9 @@ workflow and branch/PR instructions.
   health information is collected. For booking, link out to the Accession portal.
   For finding a doctor, link to NB Health Link. Never build an on-site form that
   captures health details.
-- **No COVID-19 content.** It was removed deliberately. Do not reintroduce it.
+- **No COVID-19 content beyond the vaccine.** The COVID-19 vaccine may be listed with
+  the other vaccines (Staying Healthy page, and the Additional Services note that the
+  clinic doesn't stock it). No COVID page, callout, or masking banner.
 - **Policies page stays a placeholder** until the clinic manager populates it.
 - **No X/Twitter link.** The clinic's account was removed from the site deliberately.
 - **Nursing staff are described as "nurses," not RNs.** RNs and LPNs work to a similar
