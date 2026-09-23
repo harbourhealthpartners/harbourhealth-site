@@ -19,7 +19,8 @@ step if you change wording on a page.
 Each page's footer has a "Page last revised" date. Update it on any page you change.
 
 Clinical content (Staying Healthy, cervical screening) follows New Brunswick programs
-first, then Canadian Task Force recommendations, with a conservative approach. Cite
+first, then Canadian Task Force recommendations (PEER Simplified Lipid Guideline for
+cholesterol), with a conservative approach. Cite
 sources on the page. Physician sign-off is required before changing it.
 
 Layout: one HTML file per page at the repo root, shared styles in `css/style.css`
