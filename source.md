@@ -186,6 +186,7 @@ If you or someone else is in immediate danger, call 911.
 - NB Addiction and Mental Health Helpline: 1-866-355-5550, 24 hours a day.
 - Mobile Crisis Services (Saint John area): 1-888-811-3664.
 - Community addiction and mental health services: https://www.gnb.ca/en/topic/health-wellness/mental-health/mental-services.html
+For community supports (housing, food, financial help), call 2-1-1 (211 New Brunswick), 24 hours a day.
 You can also book with your family physician to talk about your mental health.
 
 **What do I do if I am outside the province or country?**
@@ -209,6 +210,7 @@ Some physicians use Heidi, an AI scribe, which listens to the visit and drafts t
 Heading: "Patient Resources"
 
 External resource links (open in new tab):
+- 211 New Brunswick — "Call 2-1-1 for help finding community and social services, such as food, housing, financial help and mental health support. Free, confidential, and available 24 hours a day in over 150 languages." — https://nb.211.ca/
 - Tele-Care 811 — "Call 811 any time, day or night, to speak with a nurse about a health concern." — https://www.gnb.ca/en/topic/health-wellness/access-health-care/tele-care-811.html
 - Virtual Care NB — "Virtual appointments for common, non-urgent problems, 8 a.m. to 8 p.m., seven days a week." — https://www.gnb.ca/en/topic/health-wellness/access-health-care/virtual-care.html
 - Mental health services in New Brunswick — "In a crisis, call or text 988, or call the NB Addiction and Mental Health Helpline at 1-866-355-5550 (24 hours a day)." — https://www.gnb.ca/en/topic/health-wellness/mental-health/mental-services.html
@@ -228,8 +230,8 @@ External resource links (open in new tab):
 Heading: "Staying Healthy". Lead: "The screening tests and vaccines we recommend for most adults, based on New Brunswick's programs and national guidelines."
 
 Conservative, average-risk adult guide. The HTML page holds the full wording; keep this outline in step.
-- Note: general guide for average risk; symptoms, strong family history or ongoing conditions may change advice; bring it up at your next appointment rather than booking just for this.
-- Cancer screening: cervical (HPV test, 25 to 69, every 5 years if negative, every 3 years if immunosuppressed; links to Additional Services); breast (50 to 74 every 2 to 3 years; 40 to 49 is a choice to discuss; NB self-referral 40 to 74, 1-844-777-3443); colon (FIT every 2 years, 50 to 74; family history → tell physician); lung (you might qualify if 50 to 74, current or former smoker, 20+ years smoking; discuss with your family physician); prostate (routine PSA not recommended).
+- Note: general guide for average risk; symptoms, strong family history or ongoing conditions may change advice; if you think you may be due for screening, or aren't sure, book an appointment with your family physician.
+- Cancer screening: cervical (HPV test, 25 to 69, every 5 years if negative, every 3 years if immunosuppressed; links to Additional Services); breast (50 to 74 every 2 to 3 years; 40 to 49 is a choice to discuss; NB self-referral 40 to 74, 1-844-777-3443); colon (FIT every 2 years, 50 to 74; family history → tell physician); lung (you might qualify if 55 to 74, smoke now or quit less than 15 years ago, and 30+ pack-years, per the Canadian Task Force; plain-language pack-year explanation with examples; discuss with your family physician); prostate (routine PSA not recommended).
 - Other checks: blood pressure; diabetes risk-based testing every 3 to 5 years; cholesterol about every 5 years from 40; one-time AAA ultrasound for men 65 to 80; fracture-risk assessment for women 65+; yearly chlamydia/gonorrhea test under 30 if sexually active.
 - Vaccines: nurses provide all vaccine care; clinic stocks all routine childhood and adult vaccines except school-program vaccines and COVID-19; nurses are the contact for reviewing which vaccines are right for you. Every year: flu, COVID-19 (free, at pharmacies). Other: Td every 10 years with one adult Tdap; Tdap each pregnancy; pneumococcal once at 65+; RSV once at 75+ (Indigenous 60+); Shingrix 50+ (two doses, not publicly funded); HPV grade 7 and free under 27; MMR check if born 1970 or later; travel vaccines 6 to 8 weeks ahead.
 - Everyday health: quit smoking/vaping help, 150 min/week activity plus balance and strength, less alcohol.
