@@ -55,7 +55,7 @@ Standalone pages linked from the Home page but not in the top nav: Before You Vi
 **Three feature cards**
 - Our Policies — "Please carefully review our office policies." → Policies page
 - Before You Visit — "New patient? Make sure you have everything you need before your appointment." → Before You Visit page
-- Staying Healthy — "The screening tests and vaccines we recommend for adults." → Staying Healthy page
+- Staying Healthy — "The check-ups, screening tests and vaccines we recommend for children and adults." → Staying Healthy page
 
 **Tagline** (COVID link removed; keep the line as a simple reassurance banner, or drop it — see Open Items #2)
 - "Your health and well-being are important to us."
@@ -227,15 +227,24 @@ External resource links (open in new tab):
 
 ## STAYING HEALTHY (health-maintenance.html)
 
-Heading: "Staying Healthy". Lead: "The screening tests and vaccines we recommend for most adults, based on New Brunswick's programs and national guidelines."
+Heading: "Staying Healthy". Lead: "The check-ups, screening tests and vaccines we recommend for children and adults, based on New Brunswick's programs and national guidelines."
 
-Conservative, average-risk adult guide. The HTML page holds the full wording; keep this outline in step.
+Conservative, average-risk guide. The HTML page holds the full wording; keep this outline in step. Every screening category ends with a small "Guideline:" line linking the guideline it's based on (CSS class `guideline`).
 - Note: general guide for average risk; symptoms, strong family history or ongoing conditions may change advice; if you think you may be due for screening, or aren't sure, book an appointment with your family physician.
-- Cancer screening: cervical (HPV test, 25 to 69, every 5 years if negative, every 3 years if immunosuppressed; links to Additional Services); breast (50 to 74 every 2 to 3 years; 40 to 49 is a choice to discuss; NB self-referral 40 to 74, 1-844-777-3443); colon (FIT every 2 years, 50 to 74; family history → tell physician); lung (you might qualify if 55 to 74, smoke now or quit less than 15 years ago, and 30+ pack-years, per the Canadian Task Force; plain-language pack-year explanation with examples; discuss with your family physician); prostate (routine PSA not recommended).
-- Other checks: blood pressure; diabetes risk-based testing every 3 to 5 years; cholesterol about every 5 years from 40; one-time AAA ultrasound for men 65 to 80; fracture-risk assessment for women 65+; yearly chlamydia/gonorrhea test under 30 if sexually active.
-- Vaccines: nurses provide all vaccine care; clinic stocks all routine childhood and adult vaccines except school-program vaccines and COVID-19; nurses are the contact for reviewing which vaccines are right for you. Every year: flu, COVID-19 (free, at pharmacies). Other: Td every 10 years with one adult Tdap; Tdap each pregnancy; pneumococcal once at 65+; RSV once at 75+ (Indigenous 60+); Shingrix 50+ (two doses, not publicly funded); HPV grade 7 and free under 27; MMR check if born 1970 or later; travel vaccines 6 to 8 weeks ahead.
+- Cancer screening:
+  - Cervical: HPV test, 25 to 69, every 5 years if negative, every 3 years if immunosuppressed. Links to Additional Services. Guideline: NB HPV primary screening (2026).
+  - Breast: 50 to 74 every 2 to 3 years; 40 to 49 is a choice to discuss; NB self-referral 40 to 74, 1-844-777-3443. Guidelines: Task Force breast (2024), NB program.
+  - Colon: FIT every 2 years, 50 to 74; family history → tell physician. Guidelines: Task Force colorectal, NB program.
+  - Lung: you might qualify if 55 to 74, smoke now or quit less than 15 years ago, and 30+ pack-years; plain-language pack-year explanation with examples; discuss with your family physician. Guideline: Task Force lung.
+  - Prostate: generally not recommended; controversial; some men choose to screen; happy to discuss; links the Task Force patient guide. Guideline: Task Force prostate.
+- Other checks, each with a guideline link: blood pressure (Task Force hypertension); diabetes risk-based testing every 3 to 5 years (Task Force type 2 diabetes); cholesterol about every 5 years for men and women from 40, or after menopause if earlier, or at any age with risk factors (Canadian Cardiovascular Society 2021); one-time AAA ultrasound for men 65 to 80 (Task Force AAA); fracture-risk assessment for women 65+ (Task Force fragility fractures 2023); yearly chlamydia/gonorrhea test under 30 if sexually active (Task Force).
+- Children and teens:
+  - Well-child visits: first week, 2 weeks, 1, 2, 4, 6, 9, 12, 15, 18 months; yearly 2 to 5; regular check-ups for school-age children and teens. Guidelines: Rourke Baby Record, Greig Health Record.
+  - Childhood vaccines (nurses give all routine ones): 2, 4, 6 months DTaP-IPV-Hib, rotavirus, pneumococcal (2 and 4 months), hepatitis B (2 and 6 months); 12 months MMRV, meningococcal, pneumococcal; 18 months DTaP-IPV-Hib, MMRV; 4 years Tdap-IPV; flu yearly from 6 months; school: grade 7 HPV and Tdap, grade 9 meningococcal. Schedule: NB Immunization Schedule.
+- Adult vaccines: nurses provide all vaccine care; clinic stocks all routine childhood and adult vaccines except school-program vaccines and COVID-19; nurses are the contact for reviewing which vaccines are right for you. Every year: flu, COVID-19 (free, at pharmacies). Other: Td every 10 years with one adult Tdap; Tdap each pregnancy; pneumococcal once at 65+; RSV once at 75+ (Indigenous 60+); Shingrix 50+ (two doses, not publicly funded; Canadian Immunization Guide link); HPV grade 7 and free under 27; MMR check if born 1970 or later.
+- Travelling: book a travel health appointment at least 8 weeks before leaving; travel health care is not an insured service (not covered by Medicare), so fees apply. Links Government of Canada travel health.
 - Everyday health: quit smoking/vaping help, 150 min/week activity plus balance and strength, less alcohol.
-- Sources: NB cervical, breast and colon programs, NB HPV primary screening guidelines (2026), NB Immunization Schedule, Canadian Task Force on Preventive Health Care (replaced June 2026 by the National Advisory Committee on Preventive Health Services; its guidelines remain the latest national ones), Canadian Cardiovascular Society, Canadian Immunization Guide (NACI), Choosing Wisely Canada.
+- About these recommendations: Canadian Task Force replaced June 2026 by the National Advisory Committee on Preventive Health Services; its guidelines remain the latest national ones; NB programs followed where they exist; Choosing Wisely Canada link.
 - Hepatitis C screening deliberately not included.
 
 ---
@@ -272,3 +281,4 @@ Leave blank for now. Keep the page and its nav link. Add a short placeholder lin
 16. **"Urgencies" reworded** to "same-day urgent appointments" in the Refills text.
 17. **Patient Resources:** CDC replaced by Government of Canada travel health; added 811, Virtual Care NB, NB mental health services, NB cancer screening programs, NB Immunization Schedule.
 18. **"Page last revised" date** added to the footer of every page. Update it on any page you change.
+19. **Staying Healthy expanded (round 3b, 2026-09-23):** a guideline link on every screening category; PSA wording softened, with the Task Force patient guide linked; lung screening uses Task Force pack-year criteria; new Children and teens section (well-child visits, childhood vaccines); travel is at least 8 weeks ahead and not an insured service.

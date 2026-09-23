@@ -261,6 +261,10 @@ main { display: block; }
 }
 .note p:last-child { margin-bottom: 0; }
 
+.guideline { font-size: .9rem; color: var(--ink-soft); }
+p.guideline { margin-top: -.4rem; }
+li .guideline { display: block; }
+
 /* ---------- Home ---------- */
 
 .hero {
