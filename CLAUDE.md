@@ -47,7 +47,11 @@ workflow and branch/PR instructions.
 - **No COVID-19 content beyond the vaccine.** The COVID-19 vaccine may be listed with
   the other vaccines (Staying Healthy page, and the Additional Services note that the
   clinic doesn't stock it). No COVID page, callout, or masking banner.
-- **Policies page stays a placeholder** until the clinic manager populates it.
+- **Policies page is patient-facing only.** It summarises the clinic's internal policy
+  manual in plain language. Never copy internal details onto the site: staff or vendor
+  names, internal phone lines, logins, EMR codes, scripts, safety or lockdown procedures,
+  HR rules, or fee amounts unless the clinic approves. The internal manual must never be
+  committed to this repo. The clinic manager reviews Policies changes.
 - **No X/Twitter link.** The clinic's account was removed from the site deliberately.
 - **Nursing staff are described as "nurses," not RNs.** RNs and LPNs work to a similar
   scope here; do not reintroduce the RN/LPN distinction.

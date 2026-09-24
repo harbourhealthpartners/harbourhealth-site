@@ -53,7 +53,7 @@ Standalone pages linked from the Home page but not in the top nav: Before You Vi
 - Button: "Book online now" → https://nb001.myaccession.com/booking/
 
 **Three feature cards**
-- Our Policies — "Please carefully review our office policies." → Policies page
+- Our Policies — "How appointments, prescriptions and forms work at our clinic." → Policies page
 - Before You Visit — "New patient? Make sure you have everything you need before your appointment." → Before You Visit page
 - Staying Healthy — "The check-ups, screening tests and vaccines we recommend for children and adults." → Staying Healthy page
 
@@ -252,7 +252,21 @@ Conservative, average-risk guide. The HTML page holds the full wording; keep thi
 
 ## POLICIES
 
-Leave blank for now. Keep the page and its nav link. Add a short placeholder line such as "Our office policies will be posted here soon." The clinic manager will populate this later via Claude Code.
+Heading: "Our Policies". Lead: "What to expect from us: how appointments, prescriptions and forms work at our clinic."
+
+Patient-facing summary drafted 2026-09-24 from the internal policy manual and a draft patient email. Kept deliberately short and not boundary-heavy. Policies aimed at a few people (missed-appointment fees, abusive behaviour) get one line each. Never copy internal details (staff names, internal phone lines, EMR codes, scripts, fee amounts, safety procedures).
+
+Sections, with a jump list at the top:
+- Appointments: own family physician for routine care; book online (name, DOB, Medicare number) or by phone; online bookings reviewed; phone appointments need an in-person visit in the past 12 months; we ask the reason for the visit ("personal" is fine); interpreter on request; family can book with the patient's knowledge; no health info shared without permission.
+- Same-day urgent appointments: limited daily for new, sudden problems; same day only (booked in advance = cancelled and rebooked); any physician, you'll be told who; forms, sick notes, check-ups and results are regular appointments; chest pain, breathing trouble or severe belly pain → 911/ED.
+- Prescription renewals: at an appointment; book 4 to 6 weeks ahead; in person at least yearly for long-term medication; pharmacist short supply; other options, some with a fee.
+- Cancelling: 4 hours' notice; voicemail any time; repeated missed appointments may result in a fee.
+- Covering physicians and residents: group physicians or locums cover; all see the full record; teaching clinic; residents supervised.
+- Forms and uninsured services: not covered by Medicare (forms, sick notes, insurance paperwork, travel health); fees vary; complete your sections and sign consent; drop off or ask how to email as PDF; several weeks; deadlines not guaranteed.
+- A respectful clinic: short positive statement; abusive, threatening or discriminatory behaviour not accepted.
+- Keeping your information up to date: update Medicare (link) and our office; cell number for text reminders; weather/unexpected closures → we contact booked patients, voicemail updated.
+
+Also: Schedule & Urgencies "Refills" shortened to point here; FAQ "I want a physician" adds family members and 811.
 
 ---
 
@@ -284,3 +298,4 @@ Leave blank for now. Keep the page and its nav link. Add a short placeholder lin
 18. **"Page last revised" date** added to the footer of every page. Update it on any page you change.
 19. **Staying Healthy expanded (round 3b, 2026-09-23):** a guideline link on every screening category; PSA wording softened, with the Task Force patient guide linked; lung screening uses Task Force pack-year criteria; new Children and teens section (well-child visits, childhood vaccines); travel is at least 8 weeks ahead and not an insured service.
 20. **Staying Healthy:** added "Do I need a yearly physical?" (Choosing Wisely); cholesterol now follows the PEER Simplified Lipid Guideline 2023 (men 40, women 50); "we largely follow the provincial program."
+21. **Policies page written (2026-09-24)** from the internal manual as a short patient-facing "what to expect" page; Home and Before You Visit card text softened; Schedule refills text points to it; FAQ covers family members looking for a doctor.
