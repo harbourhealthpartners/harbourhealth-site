@@ -154,11 +154,10 @@ Heading: "Schedule and Urgencies"
 **Our Schedule**
 Our clinic is open 5 days per week, with daytime availability for urgent needs. If you are experiencing an emergency, always call 911 or go to the local Emergency Department.
 
-**Refills**
-If you are running low on a medication, our same-day urgent appointments allow a physician to give you a short supply, but will encourage you to make an appointment with your regular physician for a full refill. No narcotic, benzodiazepine, or stimulant medications will be refilled during these appointments. We book an appointment for all refill requests to reassess the condition.
+Clinic hours as below, plus: Phone lines answered: Monday 9:00 AM to 12:00 PM and 1:30 to 4:00 PM; Tuesday to Thursday 8:45 AM to 12:00 PM and 1:30 to 4:00 PM; Friday 8:00 AM to 12:00 PM and 1:30 to 4:00 PM. Closed over lunch; voicemail any time.
 
-**Which physician is working?**
-Our schedule changes each week. All physicians in our group have access to your electronic medical record to give you the best care possible. Please call your own physician first; their staff or voicemail will direct you to the appropriate clinic if they are not available to see you themselves.
+**Refills**
+Prescriptions are renewed at an appointment. Please book 8 weeks before you run out. Links to Policies → prescription renewals.
 
 (Original page linked a PDF titled "Why is it important to call your family physician first when you have a medical need?" — see Open Items #1.)
 
@@ -169,8 +168,10 @@ Our schedule changes each week. All physicians in our group have access to your 
 Heading: "Frequently Asked Questions"
 
 **What are the hours?**
+Clinic open:
 - Monday to Thursday: 8:00 AM to 5:00 PM
 - Friday: 8:00 AM to 4:00 PM
+Phone lines answered: Monday 9:00 AM to 12:00 PM and 1:30 to 4:00 PM; Tuesday to Thursday 8:45 AM to 12:00 PM and 1:30 to 4:00 PM; Friday 8:00 AM to 12:00 PM and 1:30 to 4:00 PM. Closed over lunch; voicemail any time.
 
 **What if I need care when the clinic is closed?**
 In an emergency, call 911 or go to the nearest Emergency Department. Otherwise:
@@ -240,7 +241,7 @@ Conservative, average-risk guide. The HTML page holds the full wording; keep thi
   - Prostate: generally not recommended; controversial; some men choose to screen; happy to discuss; links the Task Force patient guide. Guideline: Task Force prostate.
 - Other checks, each with a guideline link: blood pressure (Task Force hypertension); diabetes risk-based testing every 3 to 5 years (Task Force type 2 diabetes); cholesterol for men from 40 and women from 50, repeated no more than every 5 years (usually 10), no fasting, earlier with risk factors such as smoking or diabetes, not usually after 75 (PEER Simplified Lipid Guideline 2023; the clinic uses this rather than CCS); one-time AAA ultrasound for men 65 to 80 (Task Force AAA); fracture-risk assessment for women 65+ (Task Force fragility fractures 2023); yearly chlamydia/gonorrhea test under 30 if sexually active (Task Force).
 - Children and teens:
-  - Well-child visits: first week, 2 weeks, 1, 2, 4, 6, 9, 12, 15, 18 months; yearly 2 to 5; regular check-ups for school-age children and teens. Guidelines: Rourke Baby Record, Greig Health Record.
+  - Well-child visits: first week, 2 weeks, 1, 2, 4, 6, 12, 18 months (matches what the clinic books); yearly 2 to 5; regular check-ups for school-age children and teens. Guidelines: Rourke Baby Record, Greig Health Record.
   - Childhood vaccines (nurses give all routine ones): 2, 4, 6 months DTaP-IPV-Hib, rotavirus, pneumococcal (2 and 4 months), hepatitis B (2 and 6 months); 12 months MMRV, meningococcal, pneumococcal; 18 months DTaP-IPV-Hib, MMRV; 4 years Tdap-IPV; flu yearly from 6 months; school: grade 7 HPV and Tdap, grade 9 meningococcal. Schedule: NB Immunization Schedule.
 - Adult vaccines: nurses provide all vaccine care; clinic stocks all routine childhood and adult vaccines except school-program vaccines and COVID-19; nurses are the contact for reviewing which vaccines are right for you. Every year: flu, COVID-19 (free, at pharmacies). Other: Td every 10 years with one adult Tdap; Tdap each pregnancy; pneumococcal once at 65+; RSV once at 75+ (Indigenous 60+); Shingrix 50+ (two doses, not publicly funded; Canadian Immunization Guide link); HPV grade 7 and free under 27; MMR check if born 1970 or later.
 - Travelling: book a travel health appointment at least 8 weeks before leaving; travel health care is not an insured service (not covered by Medicare), so fees apply. Links Government of Canada travel health.
@@ -257,9 +258,9 @@ Heading: "Our Policies". Lead: "What to expect from us: how appointments, prescr
 Patient-facing summary drafted 2026-09-24 from the internal policy manual and a draft patient email. Kept deliberately short and not boundary-heavy. Policies aimed at a few people (missed-appointment fees, abusive behaviour) get one line each. Never copy internal details (staff names, internal phone lines, EMR codes, scripts, fee amounts, safety procedures).
 
 Sections, with a jump list at the top:
-- Appointments: own family physician for routine care; book online (name, DOB, Medicare number) or by phone; online bookings reviewed; phone appointments need an in-person visit in the past 12 months; we ask the reason for the visit ("personal" is fine); interpreter on request; family can book with the patient's knowledge; no health info shared without permission.
+- Appointments: own family physician for routine care; book online (name, DOB, Medicare number) or by phone; online bookings reviewed; phone appointments need an in-person visit in the past 12 months; please tell us the reason and your goal for the visit so we can review your chart and set aside the right time, staff and resources; if needed, "personal" is okay; interpreter on request; family can book with the patient's knowledge; no health info shared without permission.
 - Same-day urgent appointments: limited daily for new, sudden problems; same day only (booked in advance = cancelled and rebooked); any physician, you'll be told who; forms, sick notes, check-ups and results are regular appointments; chest pain, breathing trouble or severe belly pain → 911/ED.
-- Prescription renewals: at an appointment; book 4 to 6 weeks ahead; in person at least yearly for long-term medication; pharmacist short supply; other options, some with a fee.
+- Prescription renewals: at an appointment; book 8 weeks ahead; in person at least yearly for long-term medication; pharmacist short supply; other options, some with a fee.
 - Cancelling: 4 hours' notice; voicemail any time; repeated missed appointments may result in a fee.
 - Covering physicians and residents: group physicians or locums cover; all see the full record; teaching clinic; residents supervised.
 - Forms and uninsured services: not covered by Medicare (forms, sick notes, insurance paperwork, travel health); fees vary; complete your sections and sign consent; drop off or ask how to email as PDF; several weeks; deadlines not guaranteed.
@@ -299,3 +300,4 @@ Also: Schedule & Urgencies "Refills" shortened to point here; FAQ "I want a phys
 19. **Staying Healthy expanded (round 3b, 2026-09-23):** a guideline link on every screening category; PSA wording softened, with the Task Force patient guide linked; lung screening uses Task Force pack-year criteria; new Children and teens section (well-child visits, childhood vaccines); travel is at least 8 weeks ahead and not an insured service.
 20. **Staying Healthy:** added "Do I need a yearly physical?" (Choosing Wisely); cholesterol now follows the PEER Simplified Lipid Guideline 2023 (men 40, women 50); "we largely follow the provincial program."
 21. **Policies page written (2026-09-24)** from the internal manual as a short patient-facing "what to expect" page; Home and Before You Visit card text softened; Schedule refills text points to it; FAQ covers family members looking for a doctor.
+22. **2026-09-24:** banner now reads "This website is actively being drafted and not ready for patient use. Once we are content the information here is reliable, this header will disappear." with the date; phone-line hours added (Contact, FAQ, Schedule); refills 8 weeks; Contact has a Getting Here section (free on-site parking, bus stop at Millidge Ave & University Ave with a Saint John Transit link, Google Maps); address links to Google Maps on Contact and in every footer; "Which physician is working?" removed; well-child visits match the clinic schedule (no 9 or 15 months).
