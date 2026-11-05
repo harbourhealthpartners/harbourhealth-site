@@ -116,13 +116,16 @@ Please note: nursing visits are for routine screening only. If you have symptoms
 Source: NB Cervical Cancer Screening Program, Clinical Practice Guidelines for HPV Primary Screening (NB Cancer Network, 2026): https://www.gnb.ca/content/dam/GNB3/t/hw-sme/mhd/cancer/tools-outils/docs/clinical-practice-guidelines
 
 **Diabetes Educator Clinics**
-To help guide diabetic patients in our practice with the management of their diabetes, we have the services of two Diabetes Educators, a specially trained dietitian and nurse, on Fridays at our clinic. Visits are by appointment only. Ask your family physician if this would be appropriate for you.
+To help guide diabetic patients in our practice with the management of their diabetes, we have the services of two Diabetes Educators, a specially trained dietitian and nurse, on Fridays at our clinic. Visits are by appointment only. To request one, call our admin team at 506-645-8888.
 
 **Vaccinations**
 Our nurses provide all vaccine care at the clinic. We stock all routine childhood and adult vaccines, apart from those given in school and the COVID-19 vaccine, which is available at pharmacies. If you would like to know which vaccines are recommended for you, ask to speak with one of our nurses. Links to Staying Healthy for the adult schedule.
 
 **Other Services**
 Our nurses can help you with other services without needing to see your family physician. Examples include ear syringing, routine injections (Vitamin B12, DepoProvera) and dressing changes. Contact our office and ask to book a nursing appointment for one of these reasons.
+
+**Upcoming** (after the "Call to book" button)
+We have partnered with Horizon Health Network as a Collaborative Care Clinic. Through this partnership, we hope to start offering care from other health professionals at our clinic, such as social workers, physiotherapists, occupational therapists and respiratory therapists. These services aren't available yet. We'll share updates here as they begin.
 
 ---
 
@@ -154,7 +157,7 @@ Heading: "Schedule and Urgencies"
 **Our Schedule**
 Our clinic is open 5 days per week, with daytime availability for urgent needs. If you are experiencing an emergency, always call 911 or go to the local Emergency Department.
 
-Clinic hours as below, plus: Phone lines answered: Monday 9:00 AM to 12:00 PM and 1:30 to 4:00 PM; Tuesday to Thursday 8:45 AM to 12:00 PM and 1:30 to 4:00 PM; Friday 8:00 AM to 12:00 PM and 1:30 to 4:00 PM. Closed over lunch; voicemail any time.
+Clinic hours as below, plus: Phone lines answered: Monday 9:00 AM to 12:00 PM and 1:30 to 4:00 PM; Tuesday to Thursday 8:45 AM to 12:00 PM and 1:30 to 4:00 PM; Friday 8:00 AM to 12:00 PM and 1:30 to 4:00 PM. Closed over lunch. Voicemail is for cancelling appointments only (any time); for anything else, call while the lines are open.
 
 **Refills**
 Prescriptions are renewed at an appointment. Please book 8 weeks before you run out. Links to Policies → prescription renewals.
@@ -171,7 +174,7 @@ Heading: "Frequently Asked Questions"
 Clinic open:
 - Monday to Thursday: 8:00 AM to 5:00 PM
 - Friday: 8:00 AM to 4:00 PM
-Phone lines answered: Monday 9:00 AM to 12:00 PM and 1:30 to 4:00 PM; Tuesday to Thursday 8:45 AM to 12:00 PM and 1:30 to 4:00 PM; Friday 8:00 AM to 12:00 PM and 1:30 to 4:00 PM. Closed over lunch; voicemail any time.
+Phone lines answered: Monday 9:00 AM to 12:00 PM and 1:30 to 4:00 PM; Tuesday to Thursday 8:45 AM to 12:00 PM and 1:30 to 4:00 PM; Friday 8:00 AM to 12:00 PM and 1:30 to 4:00 PM. Closed over lunch. Voicemail is for cancelling appointments only (any time); for anything else, call while the lines are open.
 
 **What if I need care when the clinic is closed?**
 In an emergency, call 911 or go to the nearest Emergency Department. Otherwise:
@@ -217,8 +220,6 @@ External resource links (open in new tab):
 - Mental health services in New Brunswick — "In a crisis, call or text 988, or call the NB Addiction and Mental Health Helpline at 1-866-355-5550 (24 hours a day)." — https://www.gnb.ca/en/topic/health-wellness/mental-health/mental-services.html
 - New Brunswick cancer screening programs — "Breast, cervical, colon and lung screening. Information line: 1-844-777-3443." — https://www.gnb.ca/en/topic/health-wellness/manage-health-disease/cancer.html
 - New Brunswick Immunization Schedule — "Routine vaccines for children and adults." — https://www.gnb.ca/en/topic/health-wellness/immunization-vaccination/immunization-schedule.html
-- Choosing Wisely New Brunswick — "Reducing unnecessary tests & treatments in health care." — https://www.choosingwiselynb.ca/
-- College of Family Physicians of Canada — "Patient education resources." — https://www.cfpc.ca/en/home
 - Government of Canada: Travel health and safety — "Vaccines, medications and health advice for travellers, by destination." — https://travel.gc.ca/travelling/health-safety
 - Living Well with COPD — "Helps physicians and healthcare professionals partner with patients to promote self-management of their disease." — https://www.livingwellwithcopd.com/
 - Diabetes Canada — "You can live an active, independent and vital life by carefully managing your diabetes." — https://www.diabetes.ca/
@@ -242,8 +243,8 @@ Conservative, average-risk guide. The HTML page holds the full wording; keep thi
 - Other checks, each with a guideline link: blood pressure (Task Force hypertension); diabetes risk-based testing every 3 to 5 years (Task Force type 2 diabetes); cholesterol for men from 40 and women from 50, repeated no more than every 5 years (usually 10), no fasting, earlier with risk factors such as smoking or diabetes, not usually after 75 (PEER Simplified Lipid Guideline 2023; the clinic uses this rather than CCS); one-time AAA ultrasound for men 65 to 80 (Task Force AAA); fracture-risk assessment for women 65+ (Task Force fragility fractures 2023); yearly chlamydia/gonorrhea test under 30 if sexually active (Task Force).
 - Children and teens:
   - Well-child visits: first week, 2 weeks, 1, 2, 4, 6, 12, 18 months (matches what the clinic books); yearly 2 to 5; regular check-ups for school-age children and teens. Guidelines: Rourke Baby Record, Greig Health Record.
-  - Childhood vaccines (nurses give all routine ones): 2, 4, 6 months DTaP-IPV-Hib, rotavirus, pneumococcal (2 and 4 months), hepatitis B (2 and 6 months); 12 months MMRV, meningococcal, pneumococcal; 18 months DTaP-IPV-Hib, MMRV; 4 years Tdap-IPV; flu yearly from 6 months; school: grade 7 HPV and Tdap, grade 9 meningococcal. Schedule: NB Immunization Schedule.
-- Adult vaccines: nurses provide all vaccine care; clinic stocks all routine childhood and adult vaccines except school-program vaccines and COVID-19; nurses are the contact for reviewing which vaccines are right for you. Every year: flu, COVID-19 (free, at pharmacies). Other: Td every 10 years with one adult Tdap; Tdap each pregnancy; pneumococcal once at 65+; RSV once at 75+ (Indigenous 60+); Shingrix 50+ (two doses, not publicly funded; Canadian Immunization Guide link); HPV grade 7 and free under 27; MMR check if born 1970 or later.
+  - Childhood vaccines (nurses give all routine ones): 2, 4, 6 months DTaP-IPV-Hib, rotavirus, pneumococcal (2 and 4 months), hepatitis B (2 and 6 months); 12 months MMRV, meningococcal, pneumococcal; 18 months DTaP-IPV-Hib, MMRV; 4 years Tdap-IPV; flu yearly from 6 months; RSV protection for babies (Beyfortus, one antibody injection, not a vaccine; free for every NB baby in their first RSV season, about November to March; in hospital if born during the season; from our nurses or regional Public Health if born spring/summer or missed in hospital; high-risk babies can have a second-season dose; links NB RSV immunization for infants); school: grade 7 HPV and Tdap, grade 9 meningococcal. Schedule: NB Immunization Schedule.
+- Adult vaccines: nurses provide all vaccine care; clinic stocks all routine childhood and adult vaccines except school-program vaccines and COVID-19; nurses are the contact for reviewing which vaccines are right for you. Every year: flu; COVID-19 every fall (free for everyone 6 months+, at pharmacies; strongly recommended for higher risk such as 65+, pregnancy, certain conditions); COVID-19 twice a year: a spring second dose at least 3 months after the fall dose for 80+, long-term care and seniors' residences, moderately/severely immunocompromised, and 65 to 79 with risk conditions; other 65 to 79 may choose one (NACI fall 2026 statement, NB COVID-19 vaccine page). Other: Td every 10 years with one adult Tdap; Tdap each pregnancy; pneumococcal once at 65+; RSV once at 75+ (Indigenous 60+); Shingrix 50+ (two doses, not publicly funded; Canadian Immunization Guide link); HPV grade 7 and free under 27; MMR check if born 1970 or later.
 - Travelling: book a travel health appointment at least 8 weeks before leaving; travel health care is not an insured service (not covered by Medicare), so fees apply. Links Government of Canada travel health.
 - Everyday health: quit smoking/vaping help, 150 min/week activity plus balance and strength, less alcohol.
 - About these recommendations: Canadian Task Force replaced June 2026 by the National Advisory Committee on Preventive Health Services; its guidelines remain the latest national ones; NB programs largely followed where they exist; Choosing Wisely Canada link.
@@ -261,11 +262,11 @@ Sections, with a jump list at the top:
 - Appointments: own family physician for routine care; book online (name, DOB, Medicare number) or by phone; online bookings reviewed; phone appointments need an in-person visit in the past 12 months; please tell us the reason and your goal for the visit so we can review your chart and set aside the right time, staff and resources; if needed, "personal" is okay; interpreter on request; family can book with the patient's knowledge; no health info shared without permission.
 - Same-day urgent appointments: limited daily for new, sudden problems; same day only (booked in advance = cancelled and rebooked); any physician, you'll be told who; forms, sick notes, check-ups and results are regular appointments; chest pain, breathing trouble or severe belly pain → 911/ED.
 - Prescription renewals: at an appointment; book 8 weeks ahead; in person at least yearly for long-term medication; pharmacist short supply; other options, some with a fee.
-- Cancelling: 4 hours' notice; voicemail any time; repeated missed appointments may result in a fee.
-- Covering physicians and residents: group physicians or locums cover; all see the full record; teaching clinic; residents supervised.
-- Forms and uninsured services: not covered by Medicare (forms, sick notes, insurance paperwork, travel health); fees vary; complete your sections and sign consent; drop off or ask how to email as PDF; several weeks; deadlines not guaranteed.
+- Cancelling: 4 hours' notice; cancel by voicemail any time; voicemail is for cancellations only, otherwise call during phone hours; repeated missed appointments may result in a fee.
+- Covering physicians, residents and medical students: group physicians or locums cover; all see the full record; teaching clinic. Residents are doctors who have finished medical school and are training in family medicine; they assess, order tests and recommend treatment, supervised by a family physician who is involved in all care decisions. Medical students are still in medical school, not yet doctors; they may take a history and examine as part of learning but don't make care decisions; a physician reviews everything and confirms the plan.
+- Forms and uninsured services: not covered by Medicare (forms, sick notes, insurance paperwork, travel health); fees vary; complete your sections and sign consent; drop off or ask how to email as PDF; we aim to complete forms within 3 weeks; deadlines not guaranteed.
 - A respectful clinic: short positive statement; abusive, threatening or discriminatory behaviour not accepted.
-- Keeping your information up to date: update Medicare (link) and our office; cell number for text reminders; weather/unexpected closures → we contact booked patients, voicemail updated.
+- Keeping your information up to date: update Medicare (link) and our office; cell number for text reminders; weather/unexpected closures → we contact booked patients, recorded phone message updated.
 
 Also: Schedule & Urgencies "Refills" shortened to point here; FAQ "I want a physician" adds family members and 811.
 
@@ -276,6 +277,7 @@ Also: Schedule & Urgencies "Refills" shortened to point here; FAQ "I want a phys
 1. **"Call your physician first" PDF.** The old Schedule & Urgencies page linked a PDF hosted on Wix (filesusr.com). That link dies when Wix is taken down. Either drop the link, or re-host the PDF in the repo (e.g. /docs/) and relink. Left out of the content above pending your call.
 2. **Home tagline.** "Your health and well-being are important to us." previously headed the COVID callout. Kept as a standalone reassurance line above; remove if you'd rather.
 3. **Decorative/stock images.** The old Home banner, Contact photo, and resource thumbnails were Wix-hosted and will disappear with Wix. Only the logo and two headshots are saved locally. Build clean without the old stock images; add new ones later if wanted.
+4. **To do: upload the New Patient Questionnaire.** Before You Visit tells new patients they may fill out and bring a New Patient Questionnaire. Add the file to the repo (e.g. `docs/new-patient-questionnaire.pdf`) and link it from Before You Visit as a download to print, fill in and bring to the clinic. Never build it as an online form (see the patient-data rule in CLAUDE.md).
 
 ---
 
@@ -301,3 +303,13 @@ Also: Schedule & Urgencies "Refills" shortened to point here; FAQ "I want a phys
 20. **Staying Healthy:** added "Do I need a yearly physical?" (Choosing Wisely); cholesterol now follows the PEER Simplified Lipid Guideline 2023 (men 40, women 50); "we largely follow the provincial program."
 21. **Policies page written (2026-09-24)** from the internal manual as a short patient-facing "what to expect" page; Home and Before You Visit card text softened; Schedule refills text points to it; FAQ covers family members looking for a doctor.
 22. **2026-09-24:** banner now reads "This website is actively being drafted and not ready for patient use. Once we are content the information here is reliable, this header will disappear." with the date; phone-line hours added (Contact, FAQ, Schedule); refills 8 weeks; Contact has a Getting Here section (free on-site parking, bus stop at Millidge Ave & University Ave with a Saint John Transit link, Google Maps); address links to Google Maps on Contact and in every footer; "Which physician is working?" removed; well-child visits match the clinic schedule (no 9 or 15 months).
+
+## Change Log — round 4 (2026-11-05)
+
+23. **Under-construction banner removed** from every page, with its CSS and the README section.
+24. **Patient Resources:** CFPC and Choosing Wisely New Brunswick links removed. (Staying Healthy still cites Choosing Wisely Canada as a guideline.)
+25. **Additional Services:** new Upcoming section (Horizon Collaborative Care Clinic partnership; social work, physiotherapy, occupational therapy, respiratory therapy hoped for); Diabetes Educator visits requested through the admin team.
+26. **Staying Healthy:** RSV protection for babies (Beyfortus, NB universal infant program from fall 2026); COVID-19 second spring dose for higher-risk groups (NACI June 2026, NB program).
+27. **Voicemail is for cancellations only** (Policies, Schedule & Urgencies, FAQ).
+28. **Policies:** residents and medical students explained; forms benchmark is completion within 3 weeks.
+29. **Open Items #4:** New Patient Questionnaire to be uploaded.

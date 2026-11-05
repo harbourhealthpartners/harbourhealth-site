@@ -82,18 +82,6 @@ other editor and sort out which version is right.
 live site's current content first, rather than trusting whatever is in the local
 folder.
 
-## Temporary notices
-
-An amber "under construction" bar sits at the top of every page. To take it down:
-delete the block marked `<!-- TEMPORARY: under-construction notice. -->` from each
-`*.html` file, and the `.construction` rules at the end of `css/style.css`.
-
-```bash
-grep -ln "class=\"construction\"" *.html   # which pages still have it
-```
-
-While it is up, keep its date current — it is the same line in every file.
-
 ## Publishing
 
 1. Commit to `main` and push. GitHub Pages republishes automatically, usually

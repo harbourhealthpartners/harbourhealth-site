@@ -466,18 +466,3 @@ li .guideline { display: block; }
   .site-header, .site-footer, .nav-toggle { display: none; }
   body { font-size: 12pt; color: #000; }
 }
-
-/* ---------- Temporary "under construction" banner ----------
-   Delete this block (and the matching markup in each .html file)
-   once the site is finished. See README.md. */
-
-.construction {
-  background: #fdf3d8;
-  border-bottom: 1px solid #e7d08a;
-  color: #5a4408;
-  text-align: center;
-  padding: .7rem 20px;
-  font-size: .95rem;
-}
-.construction p { margin: 0; }
-.construction strong { font-weight: 700; }
