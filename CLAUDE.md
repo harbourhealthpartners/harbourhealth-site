@@ -45,7 +45,7 @@ workflow and branch/PR instructions.
   For finding a doctor, link to NB Health Link. Never build an on-site form that
   captures health details.
 - **No COVID-19 content beyond the vaccine.** The COVID-19 vaccine may be listed with
-  the other vaccines (Staying Healthy page, and the Additional Services note that the
+  the other vaccines (Staying Healthy page, and the Care Team page note that the
   clinic doesn't stock it). No COVID page, callout, or masking banner.
 - **Policies page is patient-facing only.** It summarises the clinic's internal policy
   manual in plain language. Never copy internal details onto the site: staff or vendor

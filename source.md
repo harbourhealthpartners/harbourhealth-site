@@ -21,7 +21,7 @@ changes already applied (see Change Log). Build from this.
 
 - Home
 - Services (dropdown)
-  - Additional Services
+  - Care Team
   - Staying Healthy
   - Schedule & Urgencies
   - Patient Resources
@@ -62,7 +62,7 @@ Standalone pages linked from the Home page but not in the top nav: Before You Vi
 
 **"Taking care of your health" — three cards**
 - FAQ — "Find the answers to our most frequently asked questions." → FAQ page
-- Additional Services — "Learn more about the wide variety of services we offer." → Additional Services page
+- Care Team — "Learn more about the wide variety of services we offer." → Care Team page
 - Patient Resources — "Access valuable information regarding health care." → Patient Resources page
 
 ---
@@ -90,9 +90,29 @@ Heading: "Contact Us"
 
 ---
 
-## ADDITIONAL SERVICES
+## CARE TEAM
 
-Heading: "Additional Services"
+Heading: "Care Team" (file remains additional-services.html)
+
+Intro: We work as a family health team. Your family physician is a key part of that team, but not always the first person you need to see. Our staff may suggest the team member best suited to help you.
+
+**Physician Visits**
+Your family physician is here for your regular care, including new health concerns, ongoing conditions and prescription renewals. Book online at any time, or call the office at 506-645-8888. We also keep a limited number of same-day appointments for new, sudden problems. See how appointments work (Policies) for details.
+
+**Counselling**
+We are currently introducing counselling services at our clinic, through our new social worker. This service is offered at no cost to you, with the goal of providing timely access to support when you need it.
+
+You do not need a referral or recommendation from your family physician to access counselling. Our clinic staff may also suggest counselling as a first point of contact when appropriate.
+
+Our social worker works in collaboration with your family physician as part of your overall care team, helping support your health and well-being.
+
+To learn more or ask about accessing counselling, please call our office at 506-645-8888.
+
+Please note: counselling is not a crisis service. If you or someone else is in immediate danger, call 911. For crisis support:
+- 988 Suicide Crisis Helpline: call or text 988, 24 hours a day.
+- NB Addiction and Mental Health Helpline: 1-866-355-5550, 24 hours a day.
+- Mobile Crisis Services (Saint John area): 1-888-811-3664.
+For other services and the latest contact numbers, see Horizon Addiction and Mental Health Services: https://horizonnb.ca/services/addictions-mental-health/
 
 **Cervical Screening Clinics**
 Our nurses are trained to do routine cervical screening. You can have it done by one of our nurses or by your own family physician. Call the office and tell us who you would prefer to see.
@@ -124,8 +144,8 @@ Our nurses provide all vaccine care at the clinic. We stock all routine childhoo
 **Other Services**
 Our nurses can help you with other services without needing to see your family physician. Examples include ear syringing, routine injections (Vitamin B12, DepoProvera) and dressing changes. Contact our office and ask to book a nursing appointment for one of these reasons.
 
-**Upcoming** (after the "Call to book" button)
-We have partnered with Horizon Health Network as a Collaborative Care Clinic. Through this partnership, we hope to start offering care from other health professionals at our clinic, such as social workers, physiotherapists, occupational therapists and respiratory therapists. These services aren't available yet. We'll share updates here as they begin.
+**Our Partnership with Horizon Health Network** (after the "Call to book" button; anchor stays #upcoming)
+We have partnered with Horizon Health Network as a Collaborative Care Clinic. Through this partnership, counselling with a social worker (links to Counselling above) is now available at our clinic. We hope to add care from other health professionals, such as physiotherapists, occupational therapists and respiratory therapists. These services aren't available yet. We'll share updates here as they begin.
 
 ---
 
@@ -162,6 +182,9 @@ Clinic hours as below, plus: Phone lines answered: Monday 9:00 AM to 12:00 PM an
 **Refills**
 Prescriptions are renewed at an appointment. Please book 8 weeks before you run out. Links to Policies → prescription renewals.
 
+**Why call your Health Home first?**
+Your Health Home is our whole team, including your family physician. We know your history and can often fit you in the same week, arrange a phone call, or point you to the right service. Starting here usually gets you seen sooner than anywhere else, and keeps your record complete.
+
 (Original page linked a PDF titled "Why is it important to call your family physician first when you have a medical need?" — see Open Items #1.)
 
 ---
@@ -190,8 +213,9 @@ If you or someone else is in immediate danger, call 911.
 - NB Addiction and Mental Health Helpline: 1-866-355-5550, 24 hours a day.
 - Mobile Crisis Services (Saint John area): 1-888-811-3664.
 - Community addiction and mental health services: https://www.gnb.ca/en/topic/health-wellness/mental-health/mental-services.html
+- Horizon Addiction and Mental Health Services: services in the Saint John area and the latest contact numbers. https://horizonnb.ca/services/addictions-mental-health/
 For community supports (housing, food, financial help), call 2-1-1 (211 New Brunswick), 24 hours a day.
-You can also book with your family physician to talk about your mental health.
+You can also call our office to ask about counselling with our social worker (links to Care Team → Counselling). You do not need a referral or recommendation from your family physician. Or, you can book with your family physician to talk about your mental health.
 
 **What do I do if I am outside the province or country?**
 Research the local health-care system before visiting any other province or country so you are familiar with the options available. For non-urgent care you can also call your clinic or book an appointment online. You may wait until you can be seen by your physician, or your physician may be able to speak with you by phone.
@@ -235,7 +259,7 @@ Conservative, average-risk guide. The HTML page holds the full wording; keep thi
 - Note: general guide for average risk; symptoms, strong family history or ongoing conditions may change advice; if you think you may be due for screening, or aren't sure, book an appointment with your family physician.
 - "Do I need a yearly physical?": yearly head-to-toe physicals and routine blood work are no longer recommended for healthy adults without symptoms; we focus on the specific screening and vaccines on this page; still book for new symptoms, ongoing conditions, medication renewals or screening; children still need well-child visits. Guideline: Choosing Wisely Canada, family medicine.
 - Cancer screening:
-  - Cervical: HPV test, 25 to 69, every 5 years if negative, every 3 years if immunosuppressed. Links to Additional Services. Guideline: NB HPV primary screening (2026).
+  - Cervical: HPV test, 25 to 69, every 5 years if negative, every 3 years if immunosuppressed. Links to Care Team. Guideline: NB HPV primary screening (2026).
   - Breast: 50 to 74 every 2 to 3 years; 40 to 49 is a choice to discuss; NB self-referral 40 to 74, 1-844-777-3443. Guidelines: Task Force breast (2024), NB program.
   - Colon: FIT every 2 years, 50 to 74; family history → tell physician. Guidelines: Task Force colorectal, NB program.
   - Lung: you might qualify if 55 to 74, smoke now or quit less than 15 years ago, and 30+ pack-years; plain-language pack-year explanation with examples; discuss with your family physician. Guideline: Task Force lung.
@@ -313,3 +337,17 @@ Also: Schedule & Urgencies "Refills" shortened to point here; FAQ "I want a phys
 27. **Voicemail is for cancellations only** (Policies, Schedule & Urgencies, FAQ).
 28. **Policies:** residents and medical students explained; forms benchmark is completion within 3 weeks.
 29. **Open Items #4:** New Patient Questionnaire to be uploaded.
+
+## Change Log — round 5 (2026-11-09)
+
+30. **"Additional Services" relabelled "Care Team"** in the menu item, footers, Home card and page heading. The "Services" dropdown keeps its name. The file stays additional-services.html so existing links keep working.
+31. **Care Team page** now opens with a family-health-team introduction (a physician is not always the first point of contact) and a Physician Visits section.
+32. **Counselling section added:** government-funded counselling, at no cost to patients, being rolled out through our new social worker (not named on the site); no physician recommendation needed. Social workers removed from the Upcoming list.
+33. **Schedule & Urgencies:** "Why call your family physician first?" is now "Why call your Health Home first?"
+34. **FAQ:** the mental health answer now points to counselling with our social worker.
+
+## Change Log — round 6 (2026-11-17, social worker's review)
+
+35. **Counselling wording replaced with the social worker's revision:** "introducing" rather than "rolling out"; "timely access" rather than "rapid access" (avoids implying immediate availability or a crisis service); no mention of government funding (just "no cost to you"); outside-referral examples removed; "referral or recommendation from your family physician."
+36. **Horizon Addiction and Mental Health Services linked** from the Counselling crisis note and the FAQ mental health answer, as the source for current numbers. Not embedded: a framed copy of Horizon's page would be hard to read on phones and would go blank without warning if Horizon blocks framing. The three crisis numbers on the site matched Horizon's page on 2026-11-17.
+37. **"Upcoming" renamed "Our Partnership with Horizon Health Network"** and now names counselling with a social worker as available through the partnership.

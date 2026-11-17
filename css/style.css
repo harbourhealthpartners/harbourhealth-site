@@ -259,7 +259,7 @@ main { display: block; }
   border-radius: 0 var(--radius) var(--radius) 0;
   margin: 1.5rem 0;
 }
-.note p:last-child { margin-bottom: 0; }
+.note p:last-child, .note ul:last-child { margin-bottom: 0; }
 
 .guideline { font-size: .9rem; color: var(--ink-soft); }
 p.guideline { margin-top: -.4rem; }

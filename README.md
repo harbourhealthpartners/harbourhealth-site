@@ -12,7 +12,7 @@ GitHub Pages.
 index.html                 Home
 before-you-visit.html      Before You Visit
 schedule-urgencies.html    Schedule & Urgencies
-additional-services.html   Additional Services
+additional-services.html   Care Team
 patient-resources.html     Patient Resources
 faq.html                   FAQ
 policies.html              Policies (placeholder — clinic manager owns this page)
