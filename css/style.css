@@ -264,6 +264,56 @@ main { display: block; }
 }
 .note p:last-child, .note ul:last-child { margin-bottom: 0; }
 
+/* Expandable section (<details class="disclosure">): closed by default,
+   works without JavaScript. The h2 sits inside the summary. */
+.disclosure {
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: #fff;
+  margin: 2rem 0;
+}
+.disclosure > summary {
+  list-style: none;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 1rem 1.2rem;
+  border-radius: var(--radius);
+}
+.disclosure > summary::-webkit-details-marker { display: none; }
+.disclosure > summary:hover { background: var(--bg-tint); }
+.disclosure > summary h2 { margin: 0; font-size: 1.35rem; }
+.disclosure > summary .hint {
+  display: block;
+  margin-top: .2rem;
+  font-size: .92rem;
+  font-weight: 500;
+  color: var(--ink-soft);
+}
+.disclosure > summary::after {
+  content: "";
+  flex: none;
+  width: .65rem;
+  height: .65rem;
+  margin-right: .3rem;
+  border-right: 3px solid var(--teal-dark);
+  border-bottom: 3px solid var(--teal-dark);
+  transform: translateY(-3px) rotate(45deg);
+  transition: transform .15s ease;
+}
+.disclosure[open] > summary::after { transform: translateY(3px) rotate(-135deg); }
+.disclosure[open] > summary {
+  border-bottom: 1px solid var(--line);
+  border-radius: var(--radius) var(--radius) 0 0;
+}
+.disclosure-body { padding: 1.2rem 1.2rem .4rem; }
+.disclosure-body > :first-child { margin-top: 0; }
+@media (prefers-reduced-motion: reduce) {
+  .disclosure > summary::after { transition: none; }
+}
+
 .guideline { font-size: .9rem; color: var(--ink-soft); }
 p.guideline { margin-top: -.4rem; }
 li .guideline { display: block; }
