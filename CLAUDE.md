@@ -55,8 +55,17 @@ workflow and branch/PR instructions.
 - **No X/Twitter link.** The clinic's account was removed from the site deliberately.
 - **Nursing staff are described as "nurses," not RNs.** RNs and LPNs work to a similar
   scope here; do not reintroduce the RN/LPN distinction.
+  Exception: the job posting (`careers.html`) names the LPN credential on purpose,
+  because the clinic is hiring an LPN specifically. Do not add RN to it.
 - **Local images only.** Use files in `images/`. Do not hotlink Wix-hosted images
   (static.wixstatic.com, filesusr.com); those URLs will stop working.
+
+## Hiring banner
+
+While a job is posted, every page except `careers.html` has an
+`<aside class="hiring-banner">` strip above the header linking to `careers.html`.
+When the posting closes (current deadline December 4, 2026), remove the strip from
+every `*.html` file and its CSS block, and update `careers.html` (or retire it).
 
 ## Key links (keep current)
 

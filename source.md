@@ -296,6 +296,21 @@ Also: Schedule & Urgencies "Refills" shortened to point here; FAQ "I want a phys
 
 ---
 
+## CAREERS (careers.html)
+
+Heading: "Join Our Team". Lead: "We're hiring a full-time Licensed Practical Nurse (LPN) for integrated nursing and clinical support. Apply by December 4, 2026."
+
+Content is the clinic manager's job ad and job description (2026-11-18), posted on the clinic manager's request. **LPN only:** every RN reference is removed; the clinic would consider an RN only if one it already knows fits, and does not advertise for one. Not in the top nav or footer; reached from the hiring banner.
+
+- Summary box at the top: role title; full-time, 40 hours, Monday to Friday, in office; $30 to $40/hour; apply by email to management@harbourhealthpartners.ca by December 4, 2026; jump links to How to apply and the full job description.
+- Job ad sections: About Harbour Health Partners (mission, six values); The role; The person we are looking for; Position overview; Experience and education required (Practical Nursing program; NB registration); Essential daily job functions (Independent nursing appointments, Clinical Assistant coverage, Shared clinical and operational responsibilities); How to apply (email, not a job website; subject "2026 CA Application - Your Name"; resume as PDF, introductory letter in the email body; deadline December 4, 2026, may close early; three professional references at interview; only those interviewed are contacted).
+- Full job description: Position overview; Physical requirements; Professional expectations and accountability; Essential job functions and responsibilities (nursing and independent patient care; patient management and CA support; clinical scheduling, patient flow and team coordination; EMR and clinical documentation; space and supply management; administrative and general housekeeping). Supply vendor names left off ("approved vendors").
+- Applications go by email only. No on-site application form.
+
+**Hiring banner:** a teal strip above the header on every other page: "We're hiring a full-time Licensed Practical Nurse (LPN). Apply by December 4, 2026. See the job posting." Remove it from every page when the posting closes.
+
+---
+
 ## Open Items (decide during build)
 
 1. **"Call your physician first" PDF.** The old Schedule & Urgencies page linked a PDF hosted on Wix (filesusr.com). That link dies when Wix is taken down. Either drop the link, or re-host the PDF in the repo (e.g. /docs/) and relink. Left out of the content above pending your call.
@@ -351,3 +366,8 @@ Also: Schedule & Urgencies "Refills" shortened to point here; FAQ "I want a phys
 35. **Counselling wording replaced with the social worker's revision:** "introducing" rather than "rolling out"; "timely access" rather than "rapid access" (avoids implying immediate availability or a crisis service); no mention of government funding (just "no cost to you"); outside-referral examples removed; "referral or recommendation from your family physician."
 36. **Horizon Addiction and Mental Health Services linked** from the Counselling crisis note and the FAQ mental health answer, as the source for current numbers. Not embedded: a framed copy of Horizon's page would be hard to read on phones and would go blank without warning if Horizon blocks framing. The three crisis numbers on the site matched Horizon's page on 2026-11-17.
 37. **"Upcoming" renamed "Our Partnership with Horizon Health Network"** and now names counselling with a social worker as available through the partnership.
+
+## Change Log — round 7 (2026-11-18, LPN job posting)
+
+38. **New Join Our Team page** (careers.html) with the clinic manager's LPN job ad and full job description; RN removed throughout, at the clinic manager's request. The "nurses, not RNs" rule still applies to how the site describes clinic staff; naming the LPN credential here is deliberate.
+39. **"We're hiring" banner** added above the header on every page except careers.html, linking to the posting. Remove when the posting closes (deadline December 4, 2026, or sooner if filled).
