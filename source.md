@@ -372,3 +372,7 @@ Content is the clinic manager's job ad and job description (2026-11-18), posted 
 
 38. **New Join Our Team page** (careers.html) with the clinic manager's LPN job ad and full job description; RN removed throughout, at the clinic manager's request. The "nurses, not RNs" rule still applies to how the site describes clinic staff; naming the LPN credential here is deliberate.
 39. **"We're hiring" banner** added above the header on every page except careers.html, linking to the posting. Remove when the posting closes (deadline December 4, 2026, or sooner if filled).
+
+## Change Log — round 8 (2026-11-19, hiring banner removed)
+
+40. **"We're hiring" banner removed** from every page, with its CSS. Nothing on the main site links to careers.html any more; the posting stays live and is shared by direct link: https://harbourhealth.ca/careers.html.

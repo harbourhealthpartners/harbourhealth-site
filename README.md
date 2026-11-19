@@ -17,7 +17,7 @@ patient-resources.html     Patient Resources
 faq.html                   FAQ
 policies.html              Policies (placeholder — clinic manager owns this page)
 contact.html               Contact
-careers.html               Join Our Team (job posting; linked from the hiring banner)
+careers.html               Join Our Team (job posting; unlinked, shared by direct URL)
 404.html                   Not-found page
 css/style.css              All styling (colours are CSS variables at the top)
 js/main.js                 Menu behaviour only; the site works without it

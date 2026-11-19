@@ -60,12 +60,14 @@ workflow and branch/PR instructions.
 - **Local images only.** Use files in `images/`. Do not hotlink Wix-hosted images
   (static.wixstatic.com, filesusr.com); those URLs will stop working.
 
-## Hiring banner
+## Job posting (careers.html)
 
-While a job is posted, every page except `careers.html` has an
-`<aside class="hiring-banner">` strip above the header linking to `careers.html`.
-When the posting closes (current deadline December 4, 2026), remove the strip from
-every `*.html` file and its CSS block, and update `careers.html` (or retire it).
+`careers.html` (the LPN posting, deadline December 4, 2026) is live but
+deliberately **unlinked** from the rest of the site: no banner, nav item, or
+footer link points to it. The clinic shares the direct URL,
+https://harbourhealth.ca/careers.html. Do not add links to it from other pages
+unless asked. The hiring banner was removed on 2026-11-19. When the posting
+closes, update or retire `careers.html`.
 
 ## Key links (keep current)
 

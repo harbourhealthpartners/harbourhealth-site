@@ -516,27 +516,6 @@ li .guideline { display: block; }
 }
 
 @media print {
-  .site-header, .site-footer, .nav-toggle, .hiring-banner { display: none; }
+  .site-header, .site-footer, .nav-toggle { display: none; }
   body { font-size: 12pt; color: #000; }
 }
-
-/* ---------- "We're hiring" banner ----------
-   A strip above the header on every page except careers.html.
-   When the posting closes, delete the <aside class="hiring-banner">
-   markup from each .html file, then this block. */
-
-.hiring-banner {
-  background: var(--teal-dark);
-  color: #fff;
-  text-align: center;
-  padding: .6rem 20px;
-  font-size: .95rem;
-}
-.hiring-banner p { margin: 0; }
-.hiring-banner a {
-  color: #fff;
-  font-weight: 700;
-  white-space: nowrap;
-}
-.hiring-banner a:hover { color: #fff; text-decoration-thickness: 2px; }
-.hiring-banner a:focus-visible { outline-color: #fff; }
